@@ -1,0 +1,22 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 100px;
+    background: slateblue;
+}
+button{
+    width: 130px;
+    height: 40px;
+    background:black;
+    border: none;
+    border-radius: 30px;
+    color: white;
+    font-size: 25px;
+    font-weight: bold;
+}
+.spend{
+    color:black;
+    font-size: 30px;  
+    font-weight: bold;
+}
